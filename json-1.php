@@ -1,4 +1,4 @@
-<?php 
+<?php
 include 'config.php';
 include 'class.Monsters.php';
 header('Content-Type: application/json');
